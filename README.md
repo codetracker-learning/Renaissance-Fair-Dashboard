@@ -1,6 +1,6 @@
 # Renaissance Fair Dashboard
 
-# Product Owner
+### Product Owner
 Your PO is assigned as an approver and feedback for your application. They are not there to guide you through code. If you have code related needs, submit a completed issue ticket.
 
 PO: **Dr. T**
@@ -17,6 +17,7 @@ The owners of FreeLancer are expecting to see some great branding but they aren'
     * Make sure to break down tickets into milestones, include an ERD and a Workflow Diagram of how you will tackle each part of the application
     * NOTE: This includes setting up a development branch that branches off of the main branch to test your team's code and for review by the PO
 * Set up deployment EARLY and deploy with every milestone so that the PO can see the web interface
+* Add Webpack to the Project
 * Authenticate in order to perform any actions (CUD)
 * Food Module
 * Souvenirs Module
